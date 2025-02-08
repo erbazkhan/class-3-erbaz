@@ -1,0 +1,5 @@
+*.o
+hello
+build.sh
+cpp_version/*.o
+cpp_version/hello
